@@ -47,11 +47,9 @@ p{
   text-decoration: underline;
 }
 
-
-  .container:hover .box {
-    width: 180px;
-    
-  }
+ .box:hover {
+  width: 180px;
+}
   
   .one {
     background-color: $primarycolor;
